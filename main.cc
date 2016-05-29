@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"master"<<endl;
+	
+	cout<<"testing"<<endl;
 return 0;
 }
